@@ -21,4 +21,4 @@ application and contains no code.
 
 Enable at repo **Settings -> Pages -> Deploy from a branch -> `main` / `/` (root)**.
 
-Public contact address on both pages: `boazbdov@gmail.com`.
+Public contact address on both pages: `bendboaz@gmail.com`.
